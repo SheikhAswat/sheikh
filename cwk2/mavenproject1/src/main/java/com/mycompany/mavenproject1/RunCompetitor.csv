@@ -1,0 +1,16 @@
+competitorNumber,firstName,lastName,Level,Age,Country,Scores
+1,John,Doe,Athlete,25,USA,"""90 85 88"""
+2,Jane,Smith,Gamer,30,UK,95 92 89
+3,Bob,Johnson,Athlete,22,Canada,88 90 87
+4,Alice,Williams,Gamer,28,Germany,96 94 91
+5,Charlie,Brown,Athlete,27,France,92 89 90
+6,Emma,Miller,Gamer,24,Italy,94 91 93
+7,Michael,Jones,Athlete,28,Spain,89 87 82
+8,Sophia ,Davis,Gamer,29,Japan,91 90 95
+9,David,White,Athlete,23,Austrailia,87 88 91
+10,Olivia ,Johnson,Gamer,31,South Korea,93 92 96
+11,James,Smith,Athlete,29,Brazil,85 86 89
+12,Emily,Brown,Gamer,26,China,88 87 91
+13,William,Miller,Athlete,24,India,94 93 95
+14,Ava,Jones,Gamer,27,Russia,89 90 88
+15,Ethan,Andreson,Athlete,28,Mexico,92 98 92
